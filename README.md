@@ -35,8 +35,9 @@ The **Student Management Application** is a platform designed to help administra
 - **Java Development Kit (JDK)** 8 or higher
 - **MySQL** Database Server
 
-### Database Setup
-
-1. Create a MySQL database called `student_management`:
-   ```sql
-   CREATE DATABASE student_management;
+### Features
+- **Login & Registration:** Secure login, user registration, and password reset for administrators.
+- **Student Information Management:** Create, read, update, and delete student records.
+- **Course Registration:** Register students for courses.
+- **Score Management:** Enter and view student scores.
+- **Data Export:** Export student information to an external table format for reporting or further analysis.
